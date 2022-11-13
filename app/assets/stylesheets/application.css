@@ -13,3 +13,36 @@
  *= require_tree .
  *= require_self
  */
+
+.page{
+  margin: 33px;
+  font-size: 13px;
+  line-height: 18px;
+  color: #000000;
+}
+
+a{
+  color: #000;
+}
+
+a:visited{
+  color: #666;
+}
+
+a:hover{
+  background-color: #000;
+  color: #fff;
+}
+
+td{
+  padding: 7px 5px 0px 5px;
+}
+  
+label{
+  display: block;
+}
+
+.field{
+  margin: 0px 0px 10px 0px;
+}
+
